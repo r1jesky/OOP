@@ -1,4 +1,4 @@
-class MySecondClass {
+public class MyFirstPackage {
 	private int value1;
 	private int value2;
 	
@@ -7,7 +7,7 @@ class MySecondClass {
 		else return value2;
 	}
 
-	public MySecondClass(int value1, int value2){
+	public MyFirstPackage(int value1, int value2){
 		this.value1=value1;
 		this.value2=value2;
 	}
