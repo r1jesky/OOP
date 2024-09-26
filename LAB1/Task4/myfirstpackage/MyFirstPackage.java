@@ -1,3 +1,5 @@
+package myfirstpackage;
+
 public class MyFirstPackage {
 	private int value1;
 	private int value2;
